@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/mangle"
+    },
+    "facing=east": {
+      "model": "rauk:block/mangle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/mangle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/mangle",
+      "y": 270
+    }
+  }
+}

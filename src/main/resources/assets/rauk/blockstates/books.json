@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/books"
+    },
+    "facing=east": {
+      "model": "rauk:block/books",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/books",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/books",
+      "y": 270
+    }
+  }
+}

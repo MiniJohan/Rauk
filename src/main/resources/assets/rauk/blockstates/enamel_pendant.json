@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/enamel_pendant"
+    },
+    "lit=true": {
+      "model": "rauk:block/enamel_pendant_lit"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/dark_boards"}, {"model": "rauk:block/dark_boards_1"}, {"model": "rauk:block/dark_boards_2"}]
+  }
+}

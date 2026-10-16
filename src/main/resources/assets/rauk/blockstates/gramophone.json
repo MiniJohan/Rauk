@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/gramophone"
+    },
+    "facing=east": {
+      "model": "rauk:block/gramophone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/gramophone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/gramophone",
+      "y": 270
+    }
+  }
+}

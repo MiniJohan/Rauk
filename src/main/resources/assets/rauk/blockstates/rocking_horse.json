@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/rocking_horse"
+    },
+    "facing=east": {
+      "model": "rauk:block/rocking_horse",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/rocking_horse",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/rocking_horse",
+      "y": 270
+    }
+  }
+}

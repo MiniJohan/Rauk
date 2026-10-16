@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/gen_primer"
+    },
+    "facing=east": {
+      "model": "rauk:block/gen_primer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/gen_primer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/gen_primer",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/candlestick"
+    },
+    "lit=true": {
+      "model": "rauk:block/candlestick_lit"
+    }
+  }
+}

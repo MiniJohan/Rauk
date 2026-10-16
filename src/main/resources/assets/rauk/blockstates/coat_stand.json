@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,part=0": {
+      "model": "rauk:block/coat_stand_p0"
+    },
+    "facing=east,part=0": {
+      "model": "rauk:block/coat_stand_p0",
+      "y": 90
+    },
+    "facing=south,part=0": {
+      "model": "rauk:block/coat_stand_p0",
+      "y": 180
+    },
+    "facing=west,part=0": {
+      "model": "rauk:block/coat_stand_p0",
+      "y": 270
+    },
+    "facing=north,part=1": {
+      "model": "rauk:block/coat_stand_p1"
+    },
+    "facing=east,part=1": {
+      "model": "rauk:block/coat_stand_p1",
+      "y": 90
+    },
+    "facing=south,part=1": {
+      "model": "rauk:block/coat_stand_p1",
+      "y": 180
+    },
+    "facing=west,part=1": {
+      "model": "rauk:block/coat_stand_p1",
+      "y": 270
+    }
+  }
+}

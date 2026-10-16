@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_algae_mosaic"},
+    "facing=east": {"model": "rauk:block/slant_algae_mosaic", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_algae_mosaic", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_algae_mosaic", "y": 270}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/pendant_lantern"
+    },
+    "lit=true": {
+      "model": "rauk:block/pendant_lantern_lit"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/limestone_keystone"},
+    "facing=east": {"model": "rauk:block/limestone_keystone", "y": 90},
+    "facing=south": {"model": "rauk:block/limestone_keystone", "y": 180},
+    "facing=west": {"model": "rauk:block/limestone_keystone", "y": 270}
+  }
+}

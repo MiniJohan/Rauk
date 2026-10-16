@@ -1,0 +1,60 @@
+RAUK - playing together (Minecraft 1.21.1, Fabric)
+
+UPDATING: take any old rauk-1.0.x.jar out of the mods folder and put rauk-1.0.5.jar in.
+1.0.5 rebuilds how Rauk finds its way: it runs in curves instead of zigzags, keeps to its plan,
+cuts you off when it can get where you're going first, and remembers which rooms you spend your
+time in. A 1.0.4 world works, but a NEW world is better (the rotunda lift's cage is fixed in it).
+(1.0.4 reshaped the hotel and added the puzzles: worlds from before 1.0.4 need a new world.)
+Host and friend should both have the same version.
+
+BOTH PLAYERS
+1. Install Fabric Loader for Minecraft 1.21.1 (loader 0.19.5 or newer):
+   https://fabricmc.net/use/installer/  -> Client -> Minecraft 1.21.1 -> Install.
+2. Open your .minecraft/mods folder (Windows: %appdata%\.minecraft\mods) and put the jars in it:
+   - Host (you):   everything in host-mods   (Rauk, Fabric API), plus e4mc for Fabric 1.21.1
+                   (from modrinth.com/mod/e4mc, or the Modrinth App's own mod browser)
+   - Friend:       everything in friend-mods (Rauk, Fabric API) - or unzip rauk-friend-mods.zip
+3. Start Minecraft with the "fabric-loader-1.21.1" profile.
+   Modrinth App instead: make an instance (Fabric, 1.21.1) and put the jars in THAT instance's
+   mods folder (instance -> ... -> Open folder), not in .minecraft. If the Modrinth App says
+   "missing field synced_options", that's the app itself: update it, or make a fresh instance.
+
+HOST
+1. Create a NEW world (Generate Structures ON, Allow Cheats ON so you can use the test commands).
+   Older worlds have an older hotel; in one, /rauk hotel restore rebuilds it.
+2. Esc -> Open to LAN -> Start LAN World.
+   e4mc puts an address in chat, something like  word-word.xx.e4mc.link  - click it to copy.
+3. Send that address to your friend. It changes every time you open to LAN.
+
+FRIEND
+Multiplayer -> Direct Connection -> paste the address -> Join.
+
+FINDING THE HOTEL (host, with cheats)
+  /locate structure rauk:raukvik_grand      where it is (1500-3500 blocks out)
+  /rauk hotel tp front                      to its front steps (also: lobby, atrium, chute, dorm, 4)
+  /tp <friend> <you>                        bring your friend along
+The way in is the coal chute on the west side. It falls in behind the first one through;
+whoever comes later just steps onto the rubble and goes down with it into the coal store.
+Inside you are in adventure mode. If Rauk gets you, you wake in the staff dormitory (B1).
+
+IT IS MEANT TO BE DARK: inside the hotel your brightness setting is ignored. With the power off
+only candles and fires give light. There are flashlights to find, but their beam doesn't show yet,
+so until you get the generator going, /rauk hotel power on (or night vision) lets you see.
+Sounds: the hotel's own sounds play on the Ambient/Environment volume slider.
+
+THE WAY OUT
+Five puzzles and then the lockdown itself. Start at the reception desk in the round hall at the
+front corner, and read what people left behind: it tells you the rest. Rauk hears you at them.
+
+USEFUL TEST COMMANDS (host, or /op your friend)
+  /rauk hotel power on|off      the lights and lifts (the generator on B2 is the real way)
+  /rauk hotel items             one of each thing to carry (keys, crank, fuses, flashlight)
+  /rauk hotel progress          how far you've got; progress set <what> on|off, progress reset
+  /rauk debug                   shows what Rauk senses and plans
+  /rauk hotel rauk random       a new Rauk somewhere random in the hotel
+  /rauk hotel lift guest 3      send a lift
+  /rauk hotel solutions         this world's puzzle answers
+  /rauk heat                    the rooms Rauk knows you spend the most time in
+  /rauk nav                     Rauk's map of the hotel (and /rauk nav route <x y z>: its way there)
+Lifts: press the button by a gate to call the car; in the car, click the lever to go up,
+sneak-click to go down. Light switches are by each room's door.

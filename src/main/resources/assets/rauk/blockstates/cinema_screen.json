@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/cinema_screen"}, {"model": "rauk:block/cinema_screen_1"}, {"model": "rauk:block/cinema_screen_2"}]
+  }
+}

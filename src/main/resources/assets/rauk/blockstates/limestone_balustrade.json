@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": {"model": "rauk:block/limestone_balustrade"},
+    "axis=z": {"model": "rauk:block/limestone_balustrade", "y": 90}
+  }
+}

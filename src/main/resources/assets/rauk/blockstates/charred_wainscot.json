@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/charred_wainscot"}, {"model": "rauk:block/charred_wainscot_1"}]
+  }
+}

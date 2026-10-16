@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/ballroom_panel_worn"}, {"model": "rauk:block/ballroom_panel_worn_1"}, {"model": "rauk:block/ballroom_panel_worn_2"}]
+  }
+}

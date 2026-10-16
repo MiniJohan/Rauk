@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "lit=false,part=0": {
+      "model": "rauk:block/floor_lamp_p0"
+    },
+    "lit=false,part=1": {
+      "model": "rauk:block/floor_lamp_p1"
+    },
+    "lit=true,part=0": {
+      "model": "rauk:block/floor_lamp_p0_lit"
+    },
+    "lit=true,part=1": {
+      "model": "rauk:block/floor_lamp_p1_lit"
+    }
+  }
+}

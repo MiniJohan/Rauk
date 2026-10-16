@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "part=0": {
+      "model": "rauk:block/barber_pole_p0"
+    },
+    "part=1": {
+      "model": "rauk:block/barber_pole_p1"
+    }
+  }
+}

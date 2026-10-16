@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/stucco"}, {"model": "rauk:block/stucco_1"}]
+  }
+}

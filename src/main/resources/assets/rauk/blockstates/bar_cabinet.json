@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/bar_cabinet"},
+    "facing=east": {"model": "rauk:block/bar_cabinet", "y": 90},
+    "facing=south": {"model": "rauk:block/bar_cabinet", "y": 180},
+    "facing=west": {"model": "rauk:block/bar_cabinet", "y": 270}
+  }
+}

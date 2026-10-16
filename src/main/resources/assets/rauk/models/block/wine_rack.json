@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "rauk:block/wine_rack",
+    "north": "rauk:block/wine_rack",
+    "south": "rauk:block/f_oak",
+    "east": "rauk:block/f_oak",
+    "west": "rauk:block/f_oak",
+    "up": "rauk:block/f_oak",
+    "down": "rauk:block/f_oak"
+  }
+}

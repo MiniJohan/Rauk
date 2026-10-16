@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "rauk:block/bookcase_worn",
+    "north": "rauk:block/bookcase_worn",
+    "south": "rauk:block/f_mahogany_worn",
+    "east": "rauk:block/f_mahogany_worn",
+    "west": "rauk:block/f_mahogany_worn",
+    "up": "rauk:block/f_mahogany_worn",
+    "down": "rauk:block/f_mahogany_worn"
+  }
+}

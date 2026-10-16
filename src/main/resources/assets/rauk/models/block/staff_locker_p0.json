@@ -1,0 +1,68 @@
+{
+  "textures": {
+    "particle": "rauk:block/f_locker_front",
+    "t0": "rauk:block/f_locker_front",
+    "t1": "rauk:block/f_locker_steel"
+  },
+  "elements": [
+    {
+      "from": [
+        1.0,
+        0.0,
+        2.0
+      ],
+      "to": [
+        15.0,
+        16.0,
+        16.0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            7.467,
+            16.0,
+            16.0
+          ],
+          "texture": "#t0"
+        },
+        "east": {
+          "uv": [
+            0.0,
+            7.467,
+            16.0,
+            16.0
+          ],
+          "texture": "#t1"
+        },
+        "south": {
+          "uv": [
+            0.0,
+            7.467,
+            16.0,
+            16.0
+          ],
+          "texture": "#t1"
+        },
+        "west": {
+          "uv": [
+            0.0,
+            7.467,
+            16.0,
+            16.0
+          ],
+          "texture": "#t1"
+        },
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#t1"
+        }
+      }
+    }
+  ]
+}

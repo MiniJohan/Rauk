@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rauk:block/slate_shingle_slab"
+    },
+    "type=double": {
+      "model": "rauk:block/slate_shingles"
+    },
+    "type=top": {
+      "model": "rauk:block/slate_shingle_slab_top"
+    }
+  }
+}

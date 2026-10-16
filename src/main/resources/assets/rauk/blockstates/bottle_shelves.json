@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": [{"model": "rauk:block/bottle_shelves"}, {"model": "rauk:block/bottle_shelves_1"}],
+    "facing=east": [{"model": "rauk:block/bottle_shelves", "y": 90}, {"model": "rauk:block/bottle_shelves_1", "y": 90}],
+    "facing=south": [{"model": "rauk:block/bottle_shelves", "y": 180}, {"model": "rauk:block/bottle_shelves_1", "y": 180}],
+    "facing=west": [{"model": "rauk:block/bottle_shelves", "y": 270}, {"model": "rauk:block/bottle_shelves_1", "y": 270}]
+  }
+}

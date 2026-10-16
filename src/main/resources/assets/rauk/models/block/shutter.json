@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "rauk:block/shutter",
+    "side": "rauk:block/shutter_side",
+    "top": "rauk:block/shutter_side"
+  }
+}

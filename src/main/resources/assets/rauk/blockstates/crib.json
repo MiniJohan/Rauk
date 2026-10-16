@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/crib"
+    },
+    "facing=east": {
+      "model": "rauk:block/crib",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/crib",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/crib",
+      "y": 270
+    }
+  }
+}

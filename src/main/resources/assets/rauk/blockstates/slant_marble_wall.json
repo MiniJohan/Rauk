@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_marble_wall"},
+    "facing=east": {"model": "rauk:block/slant_marble_wall", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_marble_wall", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_marble_wall", "y": 270}
+  }
+}

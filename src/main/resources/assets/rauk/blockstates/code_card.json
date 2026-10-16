@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/code_card"
+    },
+    "facing=east": {
+      "model": "rauk:block/code_card",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/code_card",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/code_card",
+      "y": 270
+    }
+  }
+}

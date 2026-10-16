@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": {"model": "rauk:block/iron_pipe"},
+    "axis=x": {"model": "rauk:block/iron_pipe", "x": 90, "y": 90},
+    "axis=z": {"model": "rauk:block/iron_pipe", "x": 90}
+  }
+}

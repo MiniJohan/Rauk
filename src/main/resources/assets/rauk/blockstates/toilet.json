@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/toilet"
+    },
+    "facing=east": {
+      "model": "rauk:block/toilet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/toilet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/toilet",
+      "y": 270
+    }
+  }
+}

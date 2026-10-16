@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/music_stand"
+    },
+    "facing=east": {
+      "model": "rauk:block/music_stand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/music_stand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/music_stand",
+      "y": 270
+    }
+  }
+}

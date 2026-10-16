@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rauk:block/dark_boards",
+    "side": "rauk:block/mahogany_column_base"
+  }
+}

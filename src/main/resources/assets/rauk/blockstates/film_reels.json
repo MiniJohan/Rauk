@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/film_reels"
+    },
+    "facing=east": {
+      "model": "rauk:block/film_reels",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/film_reels",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/film_reels",
+      "y": 270
+    }
+  }
+}

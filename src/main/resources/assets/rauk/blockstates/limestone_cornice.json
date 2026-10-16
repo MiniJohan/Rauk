@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/limestone_cornice"},
+    "facing=east": {"model": "rauk:block/limestone_cornice", "y": 90},
+    "facing=south": {"model": "rauk:block/limestone_cornice", "y": 180},
+    "facing=west": {"model": "rauk:block/limestone_cornice", "y": 270}
+  }
+}

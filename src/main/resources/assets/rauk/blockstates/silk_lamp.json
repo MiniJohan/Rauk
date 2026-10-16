@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/silk_lamp"
+    },
+    "lit=true": {
+      "model": "rauk:block/silk_lamp_lit"
+    }
+  }
+}

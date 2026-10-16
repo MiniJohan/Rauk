@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/projector"
+    },
+    "facing=east": {
+      "model": "rauk:block/projector",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/projector",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/projector",
+      "y": 270
+    }
+  }
+}

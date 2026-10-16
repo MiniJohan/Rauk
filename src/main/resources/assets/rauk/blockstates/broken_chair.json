@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/broken_chair"
+    },
+    "facing=east": {
+      "model": "rauk:block/broken_chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/broken_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/broken_chair",
+      "y": 270
+    }
+  }
+}

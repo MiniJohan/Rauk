@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "rauk:block/marble_cream",
+    "side": "rauk:block/marble_column_capital"
+  }
+}

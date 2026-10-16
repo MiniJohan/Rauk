@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/place_setting"
+    },
+    "facing=east": {
+      "model": "rauk:block/place_setting",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/place_setting",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/place_setting",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/gen_crank"
+    },
+    "facing=east": {
+      "model": "rauk:block/gen_crank",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/gen_crank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/gen_crank",
+      "y": 270
+    }
+  }
+}

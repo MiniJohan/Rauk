@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rauk:block/lift_door_empty"
+    }
+  }
+}

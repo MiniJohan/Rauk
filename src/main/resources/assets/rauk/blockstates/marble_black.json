@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/marble_black"}, {"model": "rauk:block/marble_black_1"}, {"model": "rauk:block/marble_black_2"}, {"model": "rauk:block/marble_black_3"}]
+  }
+}

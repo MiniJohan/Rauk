@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/brass"}, {"model": "rauk:block/brass_1"}]
+  }
+}

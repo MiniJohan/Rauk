@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_charred_wainscot"},
+    "facing=east": {"model": "rauk:block/slant_charred_wainscot", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_charred_wainscot", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_charred_wainscot", "y": 270}
+  }
+}

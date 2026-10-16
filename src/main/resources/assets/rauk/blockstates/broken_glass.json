@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/broken_glass"
+    },
+    "facing=east": {
+      "model": "rauk:block/broken_glass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/broken_glass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/broken_glass",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/shutter"},
+    "facing=east": {"model": "rauk:block/shutter", "y": 90},
+    "facing=south": {"model": "rauk:block/shutter", "y": 180},
+    "facing=west": {"model": "rauk:block/shutter", "y": 270}
+  }
+}

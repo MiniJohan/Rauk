@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,part=center": {"model": "rauk:block/runner_center"},
+    "facing=east,part=center": {"model": "rauk:block/runner_center", "y": 90},
+    "facing=south,part=center": {"model": "rauk:block/runner_center", "y": 180},
+    "facing=west,part=center": {"model": "rauk:block/runner_center", "y": 270},
+    "facing=north,part=edge": {"model": "rauk:block/runner_edge"},
+    "facing=east,part=edge": {"model": "rauk:block/runner_edge", "y": 90},
+    "facing=south,part=edge": {"model": "rauk:block/runner_edge", "y": 180},
+    "facing=west,part=edge": {"model": "rauk:block/runner_edge", "y": 270}
+  }
+}

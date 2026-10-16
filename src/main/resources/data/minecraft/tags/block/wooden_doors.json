@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rauk:hotel_door",
+    "rauk:service_door",
+    "rauk:glass_door",
+    "rauk:lift_door"
+  ]
+}

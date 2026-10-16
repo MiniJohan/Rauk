@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "rauk:block/pantry_shelves",
+    "north": "rauk:block/pantry_shelves",
+    "south": "rauk:block/f_pine",
+    "east": "rauk:block/f_pine",
+    "west": "rauk:block/f_pine",
+    "up": "rauk:block/f_pine",
+    "down": "rauk:block/f_pine"
+  }
+}

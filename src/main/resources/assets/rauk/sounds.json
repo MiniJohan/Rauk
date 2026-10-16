@@ -1,0 +1,1184 @@
+{
+  "knock_wood": {
+    "subtitle": "subtitles.rauk.knock",
+    "sounds": [
+      {
+        "name": "minecraft:mob/zombie/wood1",
+        "pitch": 1.8,
+        "volume": 0.45
+      },
+      {
+        "name": "minecraft:mob/zombie/wood2",
+        "pitch": 1.8,
+        "volume": 0.45
+      },
+      {
+        "name": "minecraft:mob/zombie/wood3",
+        "pitch": 1.8,
+        "volume": 0.45
+      },
+      {
+        "name": "minecraft:mob/zombie/wood4",
+        "pitch": 1.8,
+        "volume": 0.45
+      },
+      {
+        "name": "minecraft:dig/wood1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/wood2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/wood3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/wood4",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "knock_stone": {
+    "subtitle": "subtitles.rauk.knock",
+    "sounds": [
+      {
+        "name": "minecraft:step/stone1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone4",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone5",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone6",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/stone1",
+        "pitch": 0.75,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:dig/stone2",
+        "pitch": 0.75,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:dig/stone3",
+        "pitch": 0.75,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:dig/stone4",
+        "pitch": 0.75,
+        "volume": 0.8
+      }
+    ]
+  },
+  "breathe": {
+    "subtitle": "subtitles.rauk.breathe",
+    "sounds": [
+      {
+        "name": "minecraft:mob/horse/breathe1",
+        "pitch": 0.5,
+        "volume": 0.7
+      },
+      {
+        "name": "minecraft:mob/horse/breathe2",
+        "pitch": 0.5,
+        "volume": 0.7
+      },
+      {
+        "name": "minecraft:mob/horse/breathe3",
+        "pitch": 0.5,
+        "volume": 0.7
+      }
+    ]
+  },
+  "breath_catch": {
+    "subtitle": "subtitles.rauk.breath_catch",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/sniff_1",
+        "pitch": 1.35,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/warden/sniff_2",
+        "pitch": 1.35,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/warden/sniff_3",
+        "pitch": 1.35,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/warden/sniff_4",
+        "pitch": 1.35,
+        "volume": 0.5
+      }
+    ]
+  },
+  "creak": {
+    "subtitle": "subtitles.rauk.creak",
+    "sounds": [
+      {
+        "name": "minecraft:step/ladder1",
+        "pitch": 0.5,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:step/ladder2",
+        "pitch": 0.5,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:step/ladder3",
+        "pitch": 0.5,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:step/ladder4",
+        "pitch": 0.5,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:step/ladder5",
+        "pitch": 0.5,
+        "volume": 0.9
+      }
+    ]
+  },
+  "click": {
+    "subtitle": "subtitles.rauk.click",
+    "sounds": [
+      {
+        "name": "minecraft:mob/skeleton/step1",
+        "pitch": 1.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/skeleton/step2",
+        "pitch": 1.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/skeleton/step3",
+        "pitch": 1.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/skeleton/step4",
+        "pitch": 1.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/silverfish/step1",
+        "pitch": 1.2,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step2",
+        "pitch": 1.2,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step3",
+        "pitch": 1.2,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step4",
+        "pitch": 1.2,
+        "volume": 0.5
+      }
+    ]
+  },
+  "step_soft": {
+    "subtitle": "subtitles.rauk.step",
+    "sounds": [
+      {
+        "name": "minecraft:step/cloth1",
+        "pitch": 0.7,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/cloth2",
+        "pitch": 0.7,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/cloth3",
+        "pitch": 0.7,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/cloth4",
+        "pitch": 0.7,
+        "volume": 0.8
+      }
+    ]
+  },
+  "pound": {
+    "subtitle": "subtitles.rauk.pound",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/step_1",
+        "pitch": 0.75,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_2",
+        "pitch": 0.75,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_3",
+        "pitch": 0.75,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_4",
+        "pitch": 0.75,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step1",
+        "pitch": 0.7,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/step2",
+        "pitch": 0.7,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/step3",
+        "pitch": 0.7,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/step4",
+        "pitch": 0.7,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/step5",
+        "pitch": 0.7,
+        "volume": 0.9
+      }
+    ]
+  },
+  "scratch": {
+    "subtitle": "subtitles.rauk.scratch",
+    "sounds": [
+      {
+        "name": "minecraft:mob/spider/step1",
+        "pitch": 0.7,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/spider/step2",
+        "pitch": 0.7,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/spider/step3",
+        "pitch": 0.7,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/spider/step4",
+        "pitch": 0.7,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/silverfish/step1",
+        "pitch": 0.6,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step2",
+        "pitch": 0.6,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step3",
+        "pitch": 0.6,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/silverfish/step4",
+        "pitch": 0.6,
+        "volume": 0.5
+      }
+    ]
+  },
+  "pop": {
+    "subtitle": "subtitles.rauk.pop",
+    "sounds": [
+      {
+        "name": "minecraft:block/bone_block/break1",
+        "pitch": 1.35,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:block/bone_block/break2",
+        "pitch": 1.35,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:block/bone_block/break3",
+        "pitch": 1.35,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:block/bone_block/break4",
+        "pitch": 1.35,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:block/bone_block/break5",
+        "pitch": 1.35,
+        "volume": 0.9
+      }
+    ]
+  },
+  "drag": {
+    "subtitle": "subtitles.rauk.drag",
+    "sounds": [
+      {
+        "name": "minecraft:block/mud/break1",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:block/mud/break2",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:block/mud/break3",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:block/mud/break4",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:block/mud/break5",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:block/mud/break6",
+        "pitch": 0.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:step/cloth1",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:step/cloth2",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:step/cloth3",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:step/cloth4",
+        "pitch": 0.5,
+        "volume": 0.6
+      }
+    ]
+  },
+  "grab": {
+    "subtitle": "subtitles.rauk.grab",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/attack_impact_1",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/attack_impact_2",
+        "pitch": 0.9,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite1",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite2",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite3",
+        "pitch": 0.7,
+        "volume": 1.0
+      }
+    ]
+  },
+  "bite": {
+    "subtitle": "subtitles.rauk.bite",
+    "sounds": [
+      {
+        "name": "minecraft:mob/ravager/bite1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/phantom/bite1",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/phantom/bite2",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "tear": {
+    "subtitle": "subtitles.rauk.tear",
+    "sounds": [
+      {
+        "name": "minecraft:block/mud/break1",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/mud/break2",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/mud/break3",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/mud/break4",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/mud/break5",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/mud/break6",
+        "pitch": 0.7,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/slime/big1",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:mob/slime/big2",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:mob/slime/big3",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:mob/slime/big4",
+        "pitch": 0.5,
+        "volume": 0.8
+      }
+    ]
+  },
+  "chew": {
+    "subtitle": "subtitles.rauk.chew",
+    "sounds": [
+      {
+        "name": "minecraft:random/eat1",
+        "pitch": 0.45,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:random/eat2",
+        "pitch": 0.45,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:random/eat3",
+        "pitch": 0.45,
+        "volume": 0.8
+      }
+    ]
+  },
+  "land": {
+    "subtitle": "subtitles.rauk.land",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/step_1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/warden/step_4",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step1",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step2",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step3",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step4",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/step5",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "snap": {
+    "subtitle": "subtitles.rauk.snap",
+    "sounds": [
+      {
+        "name": "minecraft:mob/phantom/bite1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/phantom/bite2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/ravager/bite1",
+        "pitch": 0.9,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/bite2",
+        "pitch": 0.9,
+        "volume": 0.9
+      },
+      {
+        "name": "minecraft:mob/ravager/bite3",
+        "pitch": 0.9,
+        "volume": 0.9
+      }
+    ]
+  },
+  "pant": {
+    "subtitle": "subtitles.rauk.pant",
+    "sounds": [
+      {
+        "name": "minecraft:mob/horse/breathe1",
+        "pitch": 0.95,
+        "volume": 0.7
+      },
+      {
+        "name": "minecraft:mob/horse/breathe2",
+        "pitch": 0.95,
+        "volume": 0.7
+      },
+      {
+        "name": "minecraft:mob/horse/breathe3",
+        "pitch": 0.95,
+        "volume": 0.7
+      }
+    ]
+  },
+  "skid": {
+    "subtitle": "subtitles.rauk.skid",
+    "sounds": [
+      {
+        "name": "minecraft:dig/gravel1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel4",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:step/stone1",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/stone2",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/stone3",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/stone4",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/stone5",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:step/stone6",
+        "pitch": 0.5,
+        "volume": 0.8
+      }
+    ]
+  },
+  "amb_creak": {
+    "subtitle": "subtitles.rauk.amb_creak",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak1",
+        "pitch": 0.7,
+        "volume": 0.35
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak2",
+        "pitch": 0.7,
+        "volume": 0.35
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak3",
+        "pitch": 0.7,
+        "volume": 0.35
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak4",
+        "pitch": 0.7,
+        "volume": 0.35
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak5",
+        "pitch": 0.7,
+        "volume": 0.35
+      },
+      {
+        "name": "minecraft:step/wood1",
+        "pitch": 0.55,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:step/wood2",
+        "pitch": 0.55,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:step/wood3",
+        "pitch": 0.55,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:step/wood4",
+        "pitch": 0.55,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:step/wood5",
+        "pitch": 0.55,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:step/wood6",
+        "pitch": 0.55,
+        "volume": 0.5
+      }
+    ]
+  },
+  "amb_pipe": {
+    "subtitle": "subtitles.rauk.amb_pipe",
+    "sounds": [
+      {
+        "name": "minecraft:block/copper/step1",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/copper/step2",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/copper/step3",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/copper/step4",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/copper/step5",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/copper/step6",
+        "pitch": 0.55,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:block/iron_door/close1",
+        "pitch": 0.55,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/iron_door/close2",
+        "pitch": 0.55,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/iron_door/close3",
+        "pitch": 0.55,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/iron_door/close4",
+        "pitch": 0.55,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:note/bd",
+        "pitch": 0.6,
+        "volume": 0.35
+      }
+    ]
+  },
+  "amb_settle": {
+    "subtitle": "subtitles.rauk.amb_settle",
+    "sounds": [
+      {
+        "name": "minecraft:block/powder_snow/step1",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/powder_snow/step2",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/powder_snow/step3",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/powder_snow/step4",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/powder_snow/step5",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:block/powder_snow/step6",
+        "pitch": 0.7,
+        "volume": 0.18
+      },
+      {
+        "name": "minecraft:step/sand1",
+        "pitch": 1.3,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:step/sand2",
+        "pitch": 1.3,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:step/sand3",
+        "pitch": 1.3,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:step/sand4",
+        "pitch": 1.3,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:step/sand5",
+        "pitch": 1.3,
+        "volume": 0.12
+      }
+    ]
+  },
+  "amb_wind": {
+    "subtitle": "subtitles.rauk.amb_wind",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/nether/soulsand_valley/wind1",
+        "pitch": 1.0,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:ambient/nether/soulsand_valley/wind2",
+        "pitch": 1.0,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:ambient/nether/soulsand_valley/wind3",
+        "pitch": 1.0,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:ambient/nether/soulsand_valley/wind4",
+        "pitch": 1.0,
+        "volume": 0.3
+      }
+    ]
+  },
+  "amb_sea": {
+    "subtitle": "subtitles.rauk.amb_sea",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/underwater/additions/dark1",
+        "pitch": 0.6,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:ambient/underwater/additions/dark2",
+        "pitch": 0.6,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:ambient/underwater/additions/dark3",
+        "pitch": 0.6,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:ambient/underwater/additions/dark4",
+        "pitch": 0.6,
+        "volume": 0.55
+      },
+      {
+        "name": "minecraft:ambient/underwater/additions/earth_crack",
+        "pitch": 0.5,
+        "volume": 0.4
+      }
+    ]
+  },
+  "amb_drip": {
+    "subtitle": "subtitles.rauk.amb_drip",
+    "sounds": [
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water1",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water2",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water3",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water4",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water5",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water6",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water7",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water8",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water9",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water10",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water11",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water12",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water13",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water14",
+        "pitch": 1.0,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:block/pointed_dripstone/drip_water15",
+        "pitch": 1.0,
+        "volume": 0.4
+      }
+    ]
+  },
+  "amb_shutter": {
+    "subtitle": "subtitles.rauk.amb_shutter",
+    "sounds": [
+      {
+        "name": "minecraft:block/wooden_trapdoor/close1",
+        "pitch": 0.75,
+        "volume": 0.25
+      },
+      {
+        "name": "minecraft:block/wooden_trapdoor/close2",
+        "pitch": 0.75,
+        "volume": 0.25
+      },
+      {
+        "name": "minecraft:block/wooden_trapdoor/close3",
+        "pitch": 0.75,
+        "volume": 0.25
+      }
+    ]
+  },
+  "amb_timber": {
+    "subtitle": "subtitles.rauk.amb_timber",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak1",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak2",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak3",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak4",
+        "pitch": 0.5,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:ambient/nether/warped_forest/creak5",
+        "pitch": 0.5,
+        "volume": 0.6
+      }
+    ]
+  },
+  "amb_ash": {
+    "subtitle": "subtitles.rauk.amb_ash",
+    "sounds": [
+      {
+        "name": "minecraft:step/sand1",
+        "pitch": 0.7,
+        "volume": 0.1
+      },
+      {
+        "name": "minecraft:step/sand2",
+        "pitch": 0.7,
+        "volume": 0.1
+      },
+      {
+        "name": "minecraft:step/sand3",
+        "pitch": 0.7,
+        "volume": 0.1
+      },
+      {
+        "name": "minecraft:step/sand4",
+        "pitch": 0.7,
+        "volume": 0.1
+      },
+      {
+        "name": "minecraft:step/sand5",
+        "pitch": 0.7,
+        "volume": 0.1
+      },
+      {
+        "name": "minecraft:block/powder_snow/step1",
+        "pitch": 0.6,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:block/powder_snow/step2",
+        "pitch": 0.6,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:block/powder_snow/step3",
+        "pitch": 0.6,
+        "volume": 0.12
+      },
+      {
+        "name": "minecraft:block/powder_snow/step4",
+        "pitch": 0.6,
+        "volume": 0.12
+      }
+    ]
+  },
+  "amb_rumble": {
+    "sounds": [
+      {
+        "name": "minecraft:ambient/underwater/underwater_ambience",
+        "pitch": 0.5,
+        "volume": 0.35,
+        "stream": true
+      }
+    ]
+  },
+  "amb_draught": {
+    "sounds": [
+      {
+        "name": "minecraft:ambient/nether/soulsand_valley/ambience",
+        "pitch": 0.8,
+        "volume": 0.22,
+        "stream": true
+      }
+    ]
+  },
+  "lamp_buzz": {
+    "subtitle": "subtitles.rauk.lamp_buzz",
+    "sounds": [
+      {
+        "name": "minecraft:block/beacon/ambient",
+        "pitch": 2.0,
+        "volume": 0.05
+      },
+      {
+        "name": "minecraft:block/copper_bulb/toggle",
+        "pitch": 1.8,
+        "volume": 0.06
+      }
+    ]
+  },
+  "generator": {
+    "subtitle": "subtitles.rauk.generator",
+    "sounds": [
+      {
+        "name": "minecraft:entity/minecart/base",
+        "pitch": 0.5,
+        "volume": 0.7,
+        "attenuation_distance": 28
+      },
+      {
+        "name": "minecraft:block/beacon/ambient",
+        "pitch": 0.5,
+        "volume": 0.6,
+        "attenuation_distance": 28
+      }
+    ]
+  }
+}

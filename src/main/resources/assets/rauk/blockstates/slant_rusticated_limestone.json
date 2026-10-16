@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_rusticated_limestone"},
+    "facing=east": {"model": "rauk:block/slant_rusticated_limestone", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_rusticated_limestone", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_rusticated_limestone", "y": 270}
+  }
+}

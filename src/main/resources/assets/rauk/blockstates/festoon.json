@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "axis=x,lit=false": {"model": "rauk:block/festoon"},
+    "axis=x,lit=true": {"model": "rauk:block/festoon_lit"},
+    "axis=z,lit=false": {"model": "rauk:block/festoon", "y": 90},
+    "axis=z,lit=true": {"model": "rauk:block/festoon_lit", "y": 90}
+  }
+}

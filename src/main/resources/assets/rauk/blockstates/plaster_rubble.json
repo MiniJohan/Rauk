@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/plaster_rubble"
+    },
+    "facing=east": {
+      "model": "rauk:block/plaster_rubble",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/plaster_rubble",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/plaster_rubble",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "textures": {"particle": "rauk:block/limestone_pilaster_capital", "face": "rauk:block/limestone_pilaster_capital", "end": "rauk:block/limestone"},
+  "elements": [
+    {"from": [1.0, 0.0, 10.0], "to": [15.0, 16.0, 16.0], "faces": {
+      "north": {"uv": [1.0, 0.0, 15.0, 16.0], "texture": "#face"},
+      "south": {"uv": [1.0, 0.0, 15.0, 16.0], "texture": "#face"},
+      "east": {"uv": [0.0, 0.0, 6.0, 16.0], "texture": "#face"},
+      "west": {"uv": [10.0, 0.0, 16.0, 16.0], "texture": "#face"},
+      "up": {"uv": [1.0, 10.0, 15.0, 16.0], "texture": "#end"},
+      "down": {"uv": [1.0, 0.0, 15.0, 6.0], "texture": "#end"}
+    }}
+  ]
+}

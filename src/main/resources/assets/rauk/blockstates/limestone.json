@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/limestone"}, {"model": "rauk:block/limestone_1"}]
+  }
+}

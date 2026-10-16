@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "rauk:block/plaster_ceiling",
+    "top": "rauk:block/marble_black_1",
+    "side": "rauk:block/marble_black_1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "rauk:block/bar_cabinet",
+    "north": "rauk:block/bar_cabinet",
+    "south": "rauk:block/f_mahogany",
+    "east": "rauk:block/f_mahogany",
+    "west": "rauk:block/f_mahogany",
+    "up": "rauk:block/f_mahogany",
+    "down": "rauk:block/f_mahogany"
+  }
+}

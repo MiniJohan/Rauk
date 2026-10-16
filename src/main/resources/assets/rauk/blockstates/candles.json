@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/candles"
+    },
+    "lit=true": {
+      "model": "rauk:block/candles_lit"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/radiator"
+    },
+    "facing=east": {
+      "model": "rauk:block/radiator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/radiator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/radiator",
+      "y": 270
+    }
+  }
+}

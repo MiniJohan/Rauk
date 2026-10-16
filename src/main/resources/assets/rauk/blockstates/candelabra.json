@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/candelabra"
+    },
+    "lit=true": {
+      "model": "rauk:block/candelabra_lit"
+    }
+  }
+}

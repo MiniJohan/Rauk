@@ -1,0 +1,40 @@
+{
+  "textures": {
+    "particle": "rauk:block/f_glass_shards",
+    "t0": "rauk:block/f_glass_shards"
+  },
+  "elements": [
+    {
+      "from": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "to": [
+        16.0,
+        0.1,
+        16.0
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#t0"
+        },
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#t0"
+        }
+      }
+    }
+  ]
+}

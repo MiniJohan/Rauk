@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/chandelier"
+    },
+    "lit=true": {
+      "model": "rauk:block/chandelier_lit"
+    }
+  }
+}

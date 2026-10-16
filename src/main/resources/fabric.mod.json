@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "rauk",
+	"version": "${version}",
+	"name": "Rauk",
+	"description": "Rauk: a horror creature loose in the Raukvik Grand, a 1920s seaside hotel sealed since 1931. Find the hotel, get in through the coal chute, and survive.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rauk/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"rauk.com.Rauk"
+		],
+		"client": [
+			"rauk.com.client.RaukClient"
+		]
+	},
+	"mixins": [
+		"rauk.mixins.json",
+		{
+			"config": "rauk.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

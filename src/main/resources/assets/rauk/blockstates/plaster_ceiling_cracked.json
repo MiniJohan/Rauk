@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/plaster_ceiling_cracked"}, {"model": "rauk:block/plaster_ceiling_cracked_1"}, {"model": "rauk:block/plaster_ceiling_cracked_2"}, {"model": "rauk:block/plaster_ceiling_cracked_3"}]
+  }
+}

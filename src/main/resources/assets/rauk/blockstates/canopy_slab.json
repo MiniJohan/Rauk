@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rauk:block/canopy_slab"
+    },
+    "type=double": {
+      "model": "rauk:block/canopy_bronze"
+    },
+    "type=top": {
+      "model": "rauk:block/canopy_slab_top"
+    }
+  }
+}

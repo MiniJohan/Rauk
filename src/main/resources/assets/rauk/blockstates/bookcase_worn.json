@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": [{"model": "rauk:block/bookcase_worn"}, {"model": "rauk:block/bookcase_worn_1"}],
+    "facing=east": [{"model": "rauk:block/bookcase_worn", "y": 90}, {"model": "rauk:block/bookcase_worn_1", "y": 90}],
+    "facing=south": [{"model": "rauk:block/bookcase_worn", "y": 180}, {"model": "rauk:block/bookcase_worn_1", "y": 180}],
+    "facing=west": [{"model": "rauk:block/bookcase_worn", "y": 270}, {"model": "rauk:block/bookcase_worn_1", "y": 270}]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/ashlar_stained"}, {"model": "rauk:block/ashlar_stained_1"}, {"model": "rauk:block/ashlar_stained_2"}]
+  }
+}

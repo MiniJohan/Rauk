@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/pigeonholes"},
+    "facing=east": {"model": "rauk:block/pigeonholes", "y": 90},
+    "facing=south": {"model": "rauk:block/pigeonholes", "y": 180},
+    "facing=west": {"model": "rauk:block/pigeonholes", "y": 270}
+  }
+}

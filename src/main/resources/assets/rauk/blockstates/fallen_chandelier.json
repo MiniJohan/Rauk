@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/fallen_chandelier"
+    },
+    "facing=east": {
+      "model": "rauk:block/fallen_chandelier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/fallen_chandelier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/fallen_chandelier",
+      "y": 270
+    }
+  }
+}

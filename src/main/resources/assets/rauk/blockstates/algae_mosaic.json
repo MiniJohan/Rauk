@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/algae_mosaic"}, {"model": "rauk:block/algae_mosaic_1"}, {"model": "rauk:block/algae_mosaic_2"}]
+  }
+}

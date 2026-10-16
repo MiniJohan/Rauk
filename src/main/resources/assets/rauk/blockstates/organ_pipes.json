@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "part=0": {
+      "model": "rauk:block/organ_pipes_p0"
+    },
+    "part=1": {
+      "model": "rauk:block/organ_pipes_p1"
+    },
+    "part=2": {
+      "model": "rauk:block/organ_pipes_p2"
+    }
+  }
+}

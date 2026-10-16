@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/telephone"
+    },
+    "facing=east": {
+      "model": "rauk:block/telephone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/telephone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/telephone",
+      "y": 270
+    }
+  }
+}

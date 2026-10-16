@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/bandleader_letter"
+    },
+    "facing=east": {
+      "model": "rauk:block/bandleader_letter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/bandleader_letter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/bandleader_letter",
+      "y": 270
+    }
+  }
+}

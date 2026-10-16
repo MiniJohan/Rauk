@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/lift_button"
+    },
+    "facing=east": {
+      "model": "rauk:block/lift_button",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/lift_button",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/lift_button",
+      "y": 270
+    }
+  }
+}

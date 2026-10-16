@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/overturned_chair"
+    },
+    "facing=east": {
+      "model": "rauk:block/overturned_chair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/overturned_chair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/overturned_chair",
+      "y": 270
+    }
+  }
+}

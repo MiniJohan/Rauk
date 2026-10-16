@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": [{"model": "rauk:block/wine_rack"}, {"model": "rauk:block/wine_rack_1"}],
+    "facing=east": [{"model": "rauk:block/wine_rack", "y": 90}, {"model": "rauk:block/wine_rack_1", "y": 90}],
+    "facing=south": [{"model": "rauk:block/wine_rack", "y": 180}, {"model": "rauk:block/wine_rack_1", "y": 180}],
+    "facing=west": [{"model": "rauk:block/wine_rack", "y": 270}, {"model": "rauk:block/wine_rack_1", "y": 270}]
+  }
+}

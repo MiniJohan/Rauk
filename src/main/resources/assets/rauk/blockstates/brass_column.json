@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "part=base": {"model": "rauk:block/brass_column_base"},
+    "part=shaft": {"model": "rauk:block/brass_column_shaft"},
+    "part=capital": {"model": "rauk:block/brass_column_capital"}
+  }
+}

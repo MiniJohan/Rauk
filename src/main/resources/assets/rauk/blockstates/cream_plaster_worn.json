@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/cream_plaster_worn"}, {"model": "rauk:block/cream_plaster_worn_1"}, {"model": "rauk:block/cream_plaster_worn_2"}]
+  }
+}

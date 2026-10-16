@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "rauk:block/limestone_keystone",
+    "north": "rauk:block/limestone_keystone",
+    "south": "rauk:block/limestone",
+    "east": "rauk:block/limestone",
+    "west": "rauk:block/limestone",
+    "up": "rauk:block/limestone",
+    "down": "rauk:block/limestone"
+  }
+}

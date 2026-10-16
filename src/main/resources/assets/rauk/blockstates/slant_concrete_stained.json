@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_concrete_stained"},
+    "facing=east": {"model": "rauk:block/slant_concrete_stained", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_concrete_stained", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_concrete_stained", "y": 270}
+  }
+}

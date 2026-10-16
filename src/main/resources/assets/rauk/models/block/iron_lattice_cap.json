@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_cap",
+  "textures": {
+    "bars": "rauk:block/iron_lattice",
+    "edge": "rauk:block/iron_lattice_edge",
+    "particle": "rauk:block/iron_lattice"
+  }
+}

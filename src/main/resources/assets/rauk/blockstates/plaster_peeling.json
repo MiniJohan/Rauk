@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/plaster_peeling"}, {"model": "rauk:block/plaster_peeling_1"}, {"model": "rauk:block/plaster_peeling_2"}, {"model": "rauk:block/plaster_peeling_3"}, {"model": "rauk:block/plaster_peeling_4"}, {"model": "rauk:block/plaster_peeling_5"}, {"model": "rauk:block/plaster_peeling_6"}, {"model": "rauk:block/plaster_peeling_7"}, {"model": "rauk:block/plaster_peeling_8"}, {"model": "rauk:block/plaster_peeling_9"}]
+  }
+}

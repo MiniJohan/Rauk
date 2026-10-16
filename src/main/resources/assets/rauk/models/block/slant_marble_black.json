@@ -1,0 +1,33 @@
+{
+  "textures": {"particle": "rauk:block/marble_black", "face": "rauk:block/marble_black", "end": "rauk:block/marble_black"},
+  "elements": [
+    {"from": [0, 0, 7.9], "to": [16, 16, 8.1], "rotation": {"origin": [8, 8, 8], "axis": "y", "angle": 45, "rescale": true}, "faces": {
+      "north": {"uv": [0, 0, 16, 16], "texture": "#face"},
+      "south": {"uv": [0, 0, 16, 16], "texture": "#face"}
+    }},
+    {"from": [4.0, 0.0, 12.0], "to": [8.0, 16.0, 16.0], "faces": {
+      "north": {"uv": [4.0, 0.0, 8.0, 16.0], "texture": "#face"},
+      "south": {"uv": [8.0, 0.0, 12.0, 16.0], "texture": "#face"},
+      "east": {"uv": [0.0, 0.0, 4.0, 16.0], "texture": "#face"},
+      "west": {"uv": [12.0, 0.0, 16.0, 16.0], "texture": "#face"},
+      "up": {"uv": [4.0, 12.0, 8.0, 16.0], "texture": "#end"},
+      "down": {"uv": [4.0, 0.0, 8.0, 4.0], "texture": "#end"}
+    }},
+    {"from": [8.0, 0.0, 8.0], "to": [12.0, 16.0, 16.0], "faces": {
+      "north": {"uv": [8.0, 0.0, 12.0, 16.0], "texture": "#face"},
+      "south": {"uv": [4.0, 0.0, 8.0, 16.0], "texture": "#face"},
+      "east": {"uv": [0.0, 0.0, 8.0, 16.0], "texture": "#face"},
+      "west": {"uv": [8.0, 0.0, 16.0, 16.0], "texture": "#face"},
+      "up": {"uv": [8.0, 8.0, 12.0, 16.0], "texture": "#end"},
+      "down": {"uv": [8.0, 0.0, 12.0, 8.0], "texture": "#end"}
+    }},
+    {"from": [12.0, 0.0, 4.0], "to": [16.0, 16.0, 16.0], "faces": {
+      "north": {"uv": [12.0, 0.0, 16.0, 16.0], "texture": "#face"},
+      "south": {"uv": [0.0, 0.0, 4.0, 16.0], "texture": "#face"},
+      "east": {"uv": [0.0, 0.0, 12.0, 16.0], "texture": "#face"},
+      "west": {"uv": [4.0, 0.0, 16.0, 16.0], "texture": "#face"},
+      "up": {"uv": [12.0, 4.0, 16.0, 16.0], "texture": "#end"},
+      "down": {"uv": [12.0, 0.0, 16.0, 12.0], "texture": "#end"}
+    }}
+  ]
+}

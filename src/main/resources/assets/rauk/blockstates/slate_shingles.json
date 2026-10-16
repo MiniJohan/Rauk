@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/slate_shingles"}, {"model": "rauk:block/slate_shingles_1"}]
+  }
+}

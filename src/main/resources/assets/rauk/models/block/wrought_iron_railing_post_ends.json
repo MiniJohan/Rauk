@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_post_ends",
+  "textures": {
+    "bars": "rauk:block/wrought_iron_railing",
+    "edge": "rauk:block/wrought_iron_railing_edge",
+    "particle": "rauk:block/wrought_iron_railing"
+  }
+}

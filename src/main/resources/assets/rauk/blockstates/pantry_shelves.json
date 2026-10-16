@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": [{"model": "rauk:block/pantry_shelves"}, {"model": "rauk:block/pantry_shelves_1"}],
+    "facing=east": [{"model": "rauk:block/pantry_shelves", "y": 90}, {"model": "rauk:block/pantry_shelves_1", "y": 90}],
+    "facing=south": [{"model": "rauk:block/pantry_shelves", "y": 180}, {"model": "rauk:block/pantry_shelves_1", "y": 180}],
+    "facing=west": [{"model": "rauk:block/pantry_shelves", "y": 270}, {"model": "rauk:block/pantry_shelves_1", "y": 270}]
+  }
+}

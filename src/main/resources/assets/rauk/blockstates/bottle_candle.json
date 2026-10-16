@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/bottle_candle"
+    },
+    "lit=true": {
+      "model": "rauk:block/bottle_candle_lit"
+    }
+  }
+}

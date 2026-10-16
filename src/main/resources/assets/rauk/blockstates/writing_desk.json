@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/writing_desk"
+    },
+    "facing=east": {
+      "model": "rauk:block/writing_desk",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/writing_desk",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/writing_desk",
+      "y": 270
+    }
+  }
+}

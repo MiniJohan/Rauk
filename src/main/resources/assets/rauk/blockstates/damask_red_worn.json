@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/damask_red_worn"}, {"model": "rauk:block/damask_red_worn_1"}, {"model": "rauk:block/damask_red_worn_2"}]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/washstand"
+    },
+    "facing=east": {
+      "model": "rauk:block/washstand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/washstand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/washstand",
+      "y": 270
+    }
+  }
+}

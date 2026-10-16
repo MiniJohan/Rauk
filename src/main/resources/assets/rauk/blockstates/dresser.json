@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/dresser"
+    },
+    "facing=east": {
+      "model": "rauk:block/dresser",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/dresser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/dresser",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "east=false,north=false,south=false,west=false": {
+      "model": "rauk:block/pine_table_j0"
+    },
+    "east=false,north=true,south=false,west=false": {
+      "model": "rauk:block/pine_table_j1"
+    },
+    "east=true,north=false,south=false,west=false": {
+      "model": "rauk:block/pine_table_j2"
+    },
+    "east=true,north=true,south=false,west=false": {
+      "model": "rauk:block/pine_table_j3"
+    },
+    "east=false,north=false,south=true,west=false": {
+      "model": "rauk:block/pine_table_j4"
+    },
+    "east=false,north=true,south=true,west=false": {
+      "model": "rauk:block/pine_table_j5"
+    },
+    "east=true,north=false,south=true,west=false": {
+      "model": "rauk:block/pine_table_j6"
+    },
+    "east=true,north=true,south=true,west=false": {
+      "model": "rauk:block/pine_table_j7"
+    },
+    "east=false,north=false,south=false,west=true": {
+      "model": "rauk:block/pine_table_j8"
+    },
+    "east=false,north=true,south=false,west=true": {
+      "model": "rauk:block/pine_table_j9"
+    },
+    "east=true,north=false,south=false,west=true": {
+      "model": "rauk:block/pine_table_j10"
+    },
+    "east=true,north=true,south=false,west=true": {
+      "model": "rauk:block/pine_table_j11"
+    },
+    "east=false,north=false,south=true,west=true": {
+      "model": "rauk:block/pine_table_j12"
+    },
+    "east=false,north=true,south=true,west=true": {
+      "model": "rauk:block/pine_table_j13"
+    },
+    "east=true,north=false,south=true,west=true": {
+      "model": "rauk:block/pine_table_j14"
+    },
+    "east=true,north=true,south=true,west=true": {
+      "model": "rauk:block/pine_table_j15"
+    }
+  }
+}

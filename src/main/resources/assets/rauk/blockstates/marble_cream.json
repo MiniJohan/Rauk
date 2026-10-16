@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/marble_cream"}, {"model": "rauk:block/marble_cream_1"}, {"model": "rauk:block/marble_cream_2"}, {"model": "rauk:block/marble_cream_3"}]
+  }
+}

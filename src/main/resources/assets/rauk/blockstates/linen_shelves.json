@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/linen_shelves"},
+    "facing=east": {"model": "rauk:block/linen_shelves", "y": 90},
+    "facing=south": {"model": "rauk:block/linen_shelves", "y": 180},
+    "facing=west": {"model": "rauk:block/linen_shelves", "y": 270}
+  }
+}

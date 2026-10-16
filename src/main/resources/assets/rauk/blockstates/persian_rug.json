@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "east=false,north=false,south=false,west=false": {
+      "model": "rauk:block/persian_rug_j0"
+    },
+    "east=false,north=true,south=false,west=false": {
+      "model": "rauk:block/persian_rug_j1"
+    },
+    "east=true,north=false,south=false,west=false": {
+      "model": "rauk:block/persian_rug_j2"
+    },
+    "east=true,north=true,south=false,west=false": {
+      "model": "rauk:block/persian_rug_j3"
+    },
+    "east=false,north=false,south=true,west=false": {
+      "model": "rauk:block/persian_rug_j4"
+    },
+    "east=false,north=true,south=true,west=false": {
+      "model": "rauk:block/persian_rug_j5"
+    },
+    "east=true,north=false,south=true,west=false": {
+      "model": "rauk:block/persian_rug_j6"
+    },
+    "east=true,north=true,south=true,west=false": {
+      "model": "rauk:block/persian_rug_j7"
+    },
+    "east=false,north=false,south=false,west=true": {
+      "model": "rauk:block/persian_rug_j8"
+    },
+    "east=false,north=true,south=false,west=true": {
+      "model": "rauk:block/persian_rug_j9"
+    },
+    "east=true,north=false,south=false,west=true": {
+      "model": "rauk:block/persian_rug_j10"
+    },
+    "east=true,north=true,south=false,west=true": {
+      "model": "rauk:block/persian_rug_j11"
+    },
+    "east=false,north=false,south=true,west=true": {
+      "model": "rauk:block/persian_rug_j12"
+    },
+    "east=false,north=true,south=true,west=true": {
+      "model": "rauk:block/persian_rug_j13"
+    },
+    "east=true,north=false,south=true,west=true": {
+      "model": "rauk:block/persian_rug_j14"
+    },
+    "east=true,north=true,south=true,west=true": {
+      "model": "rauk:block/persian_rug_j15"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/tile_wall_grimy"}, {"model": "rauk:block/tile_wall_grimy_1"}, {"model": "rauk:block/tile_wall_grimy_2"}]
+  }
+}

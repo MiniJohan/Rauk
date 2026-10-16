@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,run=single": {
+      "model": "rauk:block/cinema_seat_single"
+    },
+    "facing=east,run=single": {
+      "model": "rauk:block/cinema_seat_single",
+      "y": 90
+    },
+    "facing=south,run=single": {
+      "model": "rauk:block/cinema_seat_single",
+      "y": 180
+    },
+    "facing=west,run=single": {
+      "model": "rauk:block/cinema_seat_single",
+      "y": 270
+    },
+    "facing=north,run=left": {
+      "model": "rauk:block/cinema_seat_left"
+    },
+    "facing=east,run=left": {
+      "model": "rauk:block/cinema_seat_left",
+      "y": 90
+    },
+    "facing=south,run=left": {
+      "model": "rauk:block/cinema_seat_left",
+      "y": 180
+    },
+    "facing=west,run=left": {
+      "model": "rauk:block/cinema_seat_left",
+      "y": 270
+    },
+    "facing=north,run=middle": {
+      "model": "rauk:block/cinema_seat_middle"
+    },
+    "facing=east,run=middle": {
+      "model": "rauk:block/cinema_seat_middle",
+      "y": 90
+    },
+    "facing=south,run=middle": {
+      "model": "rauk:block/cinema_seat_middle",
+      "y": 180
+    },
+    "facing=west,run=middle": {
+      "model": "rauk:block/cinema_seat_middle",
+      "y": 270
+    },
+    "facing=north,run=right": {
+      "model": "rauk:block/cinema_seat_right"
+    },
+    "facing=east,run=right": {
+      "model": "rauk:block/cinema_seat_right",
+      "y": 90
+    },
+    "facing=south,run=right": {
+      "model": "rauk:block/cinema_seat_right",
+      "y": 180
+    },
+    "facing=west,run=right": {
+      "model": "rauk:block/cinema_seat_right",
+      "y": 270
+    }
+  }
+}

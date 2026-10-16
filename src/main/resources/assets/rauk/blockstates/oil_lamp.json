@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/oil_lamp"
+    },
+    "lit=true": {
+      "model": "rauk:block/oil_lamp_lit"
+    }
+  }
+}

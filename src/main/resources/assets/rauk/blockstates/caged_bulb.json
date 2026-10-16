@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "rauk:block/caged_bulb"
+    },
+    "lit=true": {
+      "model": "rauk:block/caged_bulb_lit"
+    }
+  }
+}

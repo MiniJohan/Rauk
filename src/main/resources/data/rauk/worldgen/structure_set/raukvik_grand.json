@@ -1,0 +1,11 @@
+{
+  "placement": {
+    "type": "rauk:hotel_site"
+  },
+  "structures": [
+    {
+      "structure": "rauk:raukvik_grand",
+      "weight": 1
+    }
+  ]
+}

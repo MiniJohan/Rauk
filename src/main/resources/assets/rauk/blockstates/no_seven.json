@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/no_seven"
+    },
+    "facing=east": {
+      "model": "rauk:block/no_seven",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/no_seven",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/no_seven",
+      "y": 270
+    }
+  }
+}

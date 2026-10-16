@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,part=base": {"model": "rauk:block/mahogany_pilaster_base"},
+    "facing=east,part=base": {"model": "rauk:block/mahogany_pilaster_base", "y": 90},
+    "facing=south,part=base": {"model": "rauk:block/mahogany_pilaster_base", "y": 180},
+    "facing=west,part=base": {"model": "rauk:block/mahogany_pilaster_base", "y": 270},
+    "facing=north,part=shaft": {"model": "rauk:block/mahogany_pilaster_shaft"},
+    "facing=east,part=shaft": {"model": "rauk:block/mahogany_pilaster_shaft", "y": 90},
+    "facing=south,part=shaft": {"model": "rauk:block/mahogany_pilaster_shaft", "y": 180},
+    "facing=west,part=shaft": {"model": "rauk:block/mahogany_pilaster_shaft", "y": 270},
+    "facing=north,part=capital": {"model": "rauk:block/mahogany_pilaster_capital"},
+    "facing=east,part=capital": {"model": "rauk:block/mahogany_pilaster_capital", "y": 90},
+    "facing=south,part=capital": {"model": "rauk:block/mahogany_pilaster_capital", "y": 180},
+    "facing=west,part=capital": {"model": "rauk:block/mahogany_pilaster_capital", "y": 270}
+  }
+}

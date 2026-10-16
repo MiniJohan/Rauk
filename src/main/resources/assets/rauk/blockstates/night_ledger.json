@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/night_ledger"
+    },
+    "facing=east": {
+      "model": "rauk:block/night_ledger",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/night_ledger",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/night_ledger",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/notice_board"
+    },
+    "facing=east": {
+      "model": "rauk:block/notice_board",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/notice_board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/notice_board",
+      "y": 270
+    }
+  }
+}

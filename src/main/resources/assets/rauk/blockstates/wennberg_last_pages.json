@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/wennberg_last_pages"
+    },
+    "facing=east": {
+      "model": "rauk:block/wennberg_last_pages",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/wennberg_last_pages",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/wennberg_last_pages",
+      "y": 270
+    }
+  }
+}

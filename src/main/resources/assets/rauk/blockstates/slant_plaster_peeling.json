@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_plaster_peeling"},
+    "facing=east": {"model": "rauk:block/slant_plaster_peeling", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_plaster_peeling", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_plaster_peeling", "y": 270}
+  }
+}

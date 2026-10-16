@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/steamer_trunk"
+    },
+    "facing=east": {
+      "model": "rauk:block/steamer_trunk",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/steamer_trunk",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/steamer_trunk",
+      "y": 270
+    }
+  }
+}

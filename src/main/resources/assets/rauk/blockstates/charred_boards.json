@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/charred_boards"}, {"model": "rauk:block/charred_boards_1"}]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_tile_wall_grimy"},
+    "facing=east": {"model": "rauk:block/slant_tile_wall_grimy", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_tile_wall_grimy", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_tile_wall_grimy", "y": 270}
+  }
+}

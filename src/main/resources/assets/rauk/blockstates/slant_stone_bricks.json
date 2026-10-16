@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "rauk:block/slant_stone_bricks"},
+    "facing=east": {"model": "rauk:block/slant_stone_bricks", "y": 90},
+    "facing=south": {"model": "rauk:block/slant_stone_bricks", "y": 180},
+    "facing=west": {"model": "rauk:block/slant_stone_bricks", "y": 270}
+  }
+}

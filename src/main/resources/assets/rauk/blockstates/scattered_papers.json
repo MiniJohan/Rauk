@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/scattered_papers"
+    },
+    "facing=east": {
+      "model": "rauk:block/scattered_papers",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/scattered_papers",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/scattered_papers",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rauk:block/cabinet_catalogue"
+    },
+    "facing=east": {
+      "model": "rauk:block/cabinet_catalogue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rauk:block/cabinet_catalogue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rauk:block/cabinet_catalogue",
+      "y": 270
+    }
+  }
+}

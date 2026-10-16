@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": [{"model": "rauk:block/concrete_stained"}, {"model": "rauk:block/concrete_stained_1"}, {"model": "rauk:block/concrete_stained_2"}]
+  }
+}
